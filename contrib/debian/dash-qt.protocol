@@ -1,0 +1,11 @@
+[Protocol]
+exec=grana-qt '%u'
+protocol=grana
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

@@ -1,0 +1,6 @@
+usr/local/bin/grana-qt usr/bin
+share/pixmaps/grana32.xpm usr/share/pixmaps
+share/pixmaps/grana16.xpm usr/share/pixmaps
+share/pixmaps/grana128.png usr/share/pixmaps
+debian/grana-qt.desktop usr/share/applications
+debian/grana-qt.protocol usr/share/kde4/services/

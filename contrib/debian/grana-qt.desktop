@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Grana Core
+Comment=Grana P2P Cryptocurrency
+Exec=grana-qt %u
+Terminal=false
+Type=Application
+Icon=grana128
+MimeType=x-scheme-handler/grana;
+Categories=Office;Finance;
+StartupWMClass=Grana-qt
+Name[en_US]=grana-qt.desktop
